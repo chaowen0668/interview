@@ -14,3 +14,12 @@
 从Activity是否可见来说，onStart和onStop是配对的，这两个方法可能被调用多次；
 从Activity是否在前台来说，onResume和onPause是配对的，这两个方法可能被调用多次；
 除了这种区别，在实际使用中没有其他明显区别；  
+
+## 黑科技
+1.[Android 流氓软件静默安装是怎么实现的？](https://juejin.im/post/5c90f7d4f265da60d2408e7f)
+
+## 参考资料
+1.[Android 高级开发面试题以及答案整理](https://juejin.im/post/5c8b1bd56fb9a049e12b1692)
+
+## BAT面试题
+[分享一波大厂面试题，助力大家拿个好Offer](https://mp.weixin.qq.com/s/Tp_V3OAFkQTyP821BaOIXQ)
